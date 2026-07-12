@@ -38,9 +38,8 @@ A farmer holding harvested crop has a real, high-stakes question: sell today at 
 
 ## Demo
 
-- **Live demo (temporary, session-dependent):** `<insert your Gradio share link here, and note it may be inactive if the Kaggle session isn't running>`
 - **Demo video (YouTube):** https://youtu.be/DMVqajslhgE?feature=shared
-- **Kaggle Notebook (recommended way to run this project):** 
+- **Kaggle Notebook (recommended way to run this project):** https://www.kaggle.com/code/aribarazi/mandimitra
 
 ## Architecture
 
